@@ -44,6 +44,8 @@ Click "Refresh Stats" to update the displayed information.
 
 ## Smart Contract Architecture
 
+The smart contracts are opensource and can be found in their entirerty [here](https://github.com/ericsharma/toss-up/tree/main/projects/toss-up/contracts)
+
 ### GameMaker Contract
 
 The GameMaker contract is responsible for:
