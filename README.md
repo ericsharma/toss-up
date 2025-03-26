@@ -15,7 +15,7 @@ The project consists of:
 ### Creating a Game (Register)
 
 1. Switch to the "Register Game" tab
-2. Enter your wager amount in MicroAlgos (1 ALGO = 1,000,000 MicroAlgo)
+2. Enter your amount in MicroAlgos (1 ALGO = 1,000,000 MicroAlgo)
 3. Click "Register Game" to create a new game instance
 4. The transaction will be signed with your connected Algorand wallet
 5. Once confirmed, your game will be available for others to play
@@ -23,8 +23,8 @@ The project consists of:
 ### Playing an Existing Game
 
 1. Switch to the "Open Games" tab
-2. Browse available games - each card shows the owner's address and the wager amount
-3. Click "Play" on any game to match the wager and play
+2. Browse available games - each card shows the owner's address and the amount
+3. Click "Play" on any game to match the amount and play
 4. The outcome will be determined by the random mechanism in the smart contract
 5. Funds will be automatically transferred to the winner
 
