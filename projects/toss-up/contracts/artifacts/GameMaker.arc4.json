@@ -1,5 +1,5 @@
 {
-  "name": "TossUp",
+  "name": "GameMaker",
   "desc": "",
   "methods": [
     {
@@ -15,14 +15,10 @@
         {
           "name": "payment",
           "type": "pay"
-        },
-        {
-          "name": "owner",
-          "type": "address"
         }
       ],
       "returns": {
-        "type": "address"
+        "type": "uint64"
       }
     },
     {
@@ -33,12 +29,12 @@
           "type": "pay"
         },
         {
-          "name": "player",
-          "type": "address"
+          "name": "appID",
+          "type": "uint64"
         }
       ],
       "returns": {
-        "type": "uint64"
+        "type": "void"
       }
     }
   ]
