@@ -55,7 +55,7 @@ The GameMaker contract is responsible for:
 Key methods:
 
 - `createApplication()`: Initializes the game bookkeeping contract
-- `register(payment)`: Creates a new TossUp game with the provided wager
+- `register(payment)`: Creates a new TossUp game with the provided amount
 - `play(payment, appID)`: Plays a game and records the result
 
 ### TossUp Contract
@@ -68,7 +68,7 @@ The TossUp contract handles the logic for individual games:
 
 Key methods:
 
-- `register(payment, owner)`: Initializes a game with the owner and wager amount
+- `register(payment, owner)`: Initializes a game with the owner and amount
 - `play(payment, player)`: Executes the game logic and distributes funds
 - `getRandom(player)`: Generates a pseudo-random number for fair outcome determination
 
