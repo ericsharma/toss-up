@@ -1,57 +1,64 @@
 import { Contract } from '@algorandfoundation/tealscript';
 
 export class TossUp extends Contract {
-  /**
-   * Calculates the sum of two numbers
-   *
-   * @param a
-   * @param b
-   * @returns The sum of a and b
-   */
-  private getSum(a: uint64, b: uint64): uint64 {
-    return a + b;
+  programVersion = 11;
+
+  owner = GlobalStateKey<Address>();
+
+  amount = GlobalStateKey<uint64>();
+
+  createApplication(): void {}
+
+  register(payment: PayTxn, owner: Address): Address {
+    verifyPayTxn(payment, { amount: { greaterThan: 0 } });
+    this.owner.value = owner;
+    this.amount.value = payment.amount;
+    return this.owner.value;
   }
 
-  /**
-   * Calculates the difference between two numbers
-   *
-   * @param a
-   * @param b
-   * @returns The difference between a and b.
-   */
-  private getDifference(a: uint64, b: uint64): uint64 {
-    return a >= b ? a - b : b - a;
+  private getRandom(player: Address): uint64 {
+    let seed: uint64;
+
+    const blockSeed =
+      extractUint64(blocks[this.txn.firstValid - 1].seed, blocks[this.txn.firstValid - 1].timestamp % 24) % 24;
+
+    const proposer = blocks[this.txn.firstValid - 1].proposer;
+
+    // unfortunatley we cannot use proposer.lastHeartBeat as it is not available in the smart contract without passing proposer as a reference which we don't want to do
+    // const heartBeatSeed = proposer.lastHeartbeat % 24; // mod 24 since thats the last valid starting index for extractUint64()
+
+    // blocks[globals.round - 2]. // update the proposer's lastHeartBeat to the current round
+    const maxSeed = 4294967295; // maximum uint that will allow for maxSeed * maxSeed without causing an overflow
+
+    const playerSeed = extractUint64(player, blockSeed) % maxSeed; // introduce something unique to the player so the random seed is different for games within the same round
+
+    const ownerSeed = extractUint64(this.owner.value, blockSeed) % maxSeed; // introduce something unique to owner so the random seed is different for games from the same player within the same round
+
+    const intraRoundRandomness = (playerSeed * ownerSeed) % 24;
+
+    if (proposer === globals.zeroAddress) {
+      // if proposer is zeroAddress then we're in localnet so choose a different dynamic seed
+      seed = extractUint64(player, intraRoundRandomness);
+    } else {
+      seed = extractUint64(proposer, intraRoundRandomness);
+    }
+
+    return seed;
   }
 
-  /**
-   * A method that takes two numbers and does either addition or subtraction
-   *
-   * @param a The first uint64
-   * @param b The second uint64
-   * @param operation The operation to perform. Can be either 'sum' or 'difference'
-   *
-   * @returns The result of the operation
-   */
-  doMath(a: uint64, b: uint64, operation: string): uint64 {
-    let result: uint64;
+  @allow.call('DeleteApplication')
+  play(payment: PayTxn, player: Address): uint64 {
+    asserts(player !== this.owner.value, this.amount.value === payment.amount, this.txn.sender === this.app.creator);
 
-    if (operation === 'sum') {
-      result = this.getSum(a, b);
-    } else if (operation === 'difference') {
-      result = this.getDifference(a, b);
-    } else throw Error('Invalid operation');
+    const seed = this.getRandom(player);
 
-    return result;
-  }
+    if (seed % 2 === 0) {
+      sendPayment({ receiver: this.owner.value, amount: this.amount.value + payment.amount });
+    } else {
+      sendPayment({ receiver: player, amount: this.amount.value + payment.amount });
+    }
 
-  /**
-   * A demonstration method used in the AlgoKit fullstack template.
-   * Greets the user by name.
-   *
-   * @param name The name of the user to greet.
-   * @returns A greeting message to the user.
-   */
-  hello(name: string): string {
-    return 'Hello, ' + name;
+    sendPayment({ closeRemainderTo: this.owner.value });
+    return seed % 2;
   }
 }
