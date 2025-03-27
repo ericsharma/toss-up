@@ -821,66 +821,294 @@
       476,
       477,
       478,
-      479,
+      479
+    ]
+  },
+  {
+    "teal": 126,
+    "source": "contracts/GameMaker.algo.ts:25",
+    "pc": [
       480,
-      481,
-      482,
+      481
+    ]
+  },
+  {
+    "teal": 132,
+    "source": "contracts/GameMaker.algo.ts:27",
+    "pc": [
+      482
+    ]
+  },
+  {
+    "teal": 133,
+    "source": "contracts/GameMaker.algo.ts:27",
+    "pc": [
       483,
-      484,
-      485,
+      484
+    ]
+  },
+  {
+    "teal": 137,
+    "source": "contracts/GameMaker.algo.ts:28",
+    "pc": [
+      485
+    ]
+  },
+  {
+    "teal": 138,
+    "source": "contracts/GameMaker.algo.ts:28",
+    "pc": [
       486,
-      487,
-      488,
+      487
+    ]
+  },
+  {
+    "teal": 142,
+    "source": "contracts/GameMaker.algo.ts:29",
+    "pc": [
+      488
+    ]
+  },
+  {
+    "teal": 143,
+    "source": "contracts/GameMaker.algo.ts:29",
+    "pc": [
       489,
-      490,
-      491,
+      490
+    ]
+  },
+  {
+    "teal": 147,
+    "source": "contracts/GameMaker.algo.ts:30",
+    "pc": [
+      491
+    ]
+  },
+  {
+    "teal": 148,
+    "source": "contracts/GameMaker.algo.ts:30",
+    "pc": [
       492,
-      493,
-      494,
+      493
+    ]
+  },
+  {
+    "teal": 151,
+    "source": "contracts/GameMaker.algo.ts:23",
+    "pc": [
+      494
+    ]
+  },
+  {
+    "teal": 152,
+    "source": "contracts/GameMaker.algo.ts:23",
+    "pc": [
       495,
-      496,
-      497,
+      496
+    ]
+  },
+  {
+    "teal": 155,
+    "source": "contracts/GameMaker.algo.ts:23",
+    "pc": [
+      497
+    ]
+  },
+  {
+    "teal": 159,
+    "source": "contracts/GameMaker.algo.ts:32",
+    "pc": [
       498,
-      499,
+      499
+    ]
+  },
+  {
+    "teal": 160,
+    "source": "contracts/GameMaker.algo.ts:32",
+    "pc": [
       500,
-      501,
-      502,
+      501
+    ]
+  },
+  {
+    "teal": 161,
+    "source": "contracts/GameMaker.algo.ts:32",
+    "pc": [
+      502
+    ]
+  },
+  {
+    "teal": 162,
+    "source": "contracts/GameMaker.algo.ts:32",
+    "pc": [
       503,
-      504,
-      505,
+      504
+    ]
+  },
+  {
+    "teal": 163,
+    "source": "contracts/GameMaker.algo.ts:32",
+    "pc": [
+      505
+    ]
+  },
+  {
+    "teal": 164,
+    "source": "contracts/GameMaker.algo.ts:32",
+    "pc": [
       506,
-      507,
+      507
+    ]
+  },
+  {
+    "teal": 168,
+    "source": "contracts/GameMaker.algo.ts:34",
+    "pc": [
       508,
-      509,
+      509
+    ]
+  },
+  {
+    "teal": 169,
+    "source": "contracts/GameMaker.algo.ts:34",
+    "pc": [
       510,
-      511,
-      512,
-      513,
+      511
+    ]
+  },
+  {
+    "teal": 176,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
+      512
+    ]
+  },
+  {
+    "teal": 177,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
+      513
+    ]
+  },
+  {
+    "teal": 178,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
       514,
-      515,
+      515
+    ]
+  },
+  {
+    "teal": 182,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
       516,
-      517,
+      517
+    ]
+  },
+  {
+    "teal": 183,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
       518,
-      519,
+      519
+    ]
+  },
+  {
+    "teal": 184,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
       520,
-      521,
-      522,
+      521
+    ]
+  },
+  {
+    "teal": 185,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
+      522
+    ]
+  },
+  {
+    "teal": 186,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
       523,
-      524,
+      524
+    ]
+  },
+  {
+    "teal": 190,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
       525,
-      526,
+      526
+    ]
+  },
+  {
+    "teal": 191,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
       527,
-      528,
-      529,
+      528
+    ]
+  },
+  {
+    "teal": 192,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
+      529
+    ]
+  },
+  {
+    "teal": 193,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
       530,
-      531,
-      532,
+      531
+    ]
+  },
+  {
+    "teal": 196,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
+      532
+    ]
+  },
+  {
+    "teal": 197,
+    "source": "contracts/GameMaker.algo.ts:37",
+    "pc": [
       533,
-      534,
-      535,
-      536,
+      534
+    ]
+  },
+  {
+    "teal": 198,
+    "source": "contracts/GameMaker.algo.ts:35",
+    "pc": [
+      535
+    ]
+  },
+  {
+    "teal": 199,
+    "source": "contracts/GameMaker.algo.ts:35",
+    "pc": [
+      536
+    ]
+  },
+  {
+    "teal": 200,
+    "source": "contracts/GameMaker.algo.ts:35",
+    "pc": [
       537,
-      538,
+      538
+    ]
+  },
+  {
+    "teal": 201,
+    "source": "contracts/GameMaker.algo.ts:35",
+    "pc": [
       539,
       540,
       541,
@@ -890,495 +1118,202 @@
     ]
   },
   {
-    "teal": 126,
-    "source": "contracts/GameMaker.algo.ts:25",
+    "teal": 202,
+    "source": "contracts/GameMaker.algo.ts:35",
     "pc": [
       545,
       546
     ]
   },
   {
-    "teal": 132,
-    "source": "contracts/GameMaker.algo.ts:27",
-    "pc": [
-      547
-    ]
-  },
-  {
-    "teal": 133,
-    "source": "contracts/GameMaker.algo.ts:27",
-    "pc": [
-      548,
-      549
-    ]
-  },
-  {
-    "teal": 137,
-    "source": "contracts/GameMaker.algo.ts:28",
-    "pc": [
-      550
-    ]
-  },
-  {
-    "teal": 138,
-    "source": "contracts/GameMaker.algo.ts:28",
-    "pc": [
-      551,
-      552
-    ]
-  },
-  {
-    "teal": 142,
-    "source": "contracts/GameMaker.algo.ts:29",
-    "pc": [
-      553
-    ]
-  },
-  {
-    "teal": 143,
-    "source": "contracts/GameMaker.algo.ts:29",
-    "pc": [
-      554,
-      555
-    ]
-  },
-  {
-    "teal": 147,
-    "source": "contracts/GameMaker.algo.ts:30",
-    "pc": [
-      556
-    ]
-  },
-  {
-    "teal": 148,
-    "source": "contracts/GameMaker.algo.ts:30",
-    "pc": [
-      557,
-      558
-    ]
-  },
-  {
-    "teal": 151,
-    "source": "contracts/GameMaker.algo.ts:23",
-    "pc": [
-      559
-    ]
-  },
-  {
-    "teal": 152,
-    "source": "contracts/GameMaker.algo.ts:23",
-    "pc": [
-      560,
-      561
-    ]
-  },
-  {
-    "teal": 155,
-    "source": "contracts/GameMaker.algo.ts:23",
-    "pc": [
-      562
-    ]
-  },
-  {
-    "teal": 159,
-    "source": "contracts/GameMaker.algo.ts:32",
-    "pc": [
-      563,
-      564
-    ]
-  },
-  {
-    "teal": 160,
-    "source": "contracts/GameMaker.algo.ts:32",
-    "pc": [
-      565,
-      566
-    ]
-  },
-  {
-    "teal": 161,
-    "source": "contracts/GameMaker.algo.ts:32",
-    "pc": [
-      567
-    ]
-  },
-  {
-    "teal": 162,
-    "source": "contracts/GameMaker.algo.ts:32",
-    "pc": [
-      568,
-      569
-    ]
-  },
-  {
-    "teal": 163,
-    "source": "contracts/GameMaker.algo.ts:32",
-    "pc": [
-      570
-    ]
-  },
-  {
-    "teal": 164,
-    "source": "contracts/GameMaker.algo.ts:32",
-    "pc": [
-      571,
-      572
-    ]
-  },
-  {
-    "teal": 168,
-    "source": "contracts/GameMaker.algo.ts:34",
-    "pc": [
-      573,
-      574
-    ]
-  },
-  {
-    "teal": 169,
-    "source": "contracts/GameMaker.algo.ts:34",
-    "pc": [
-      575,
-      576
-    ]
-  },
-  {
-    "teal": 176,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      577
-    ]
-  },
-  {
-    "teal": 177,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      578
-    ]
-  },
-  {
-    "teal": 178,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      579,
-      580
-    ]
-  },
-  {
-    "teal": 182,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      581,
-      582
-    ]
-  },
-  {
-    "teal": 183,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      583,
-      584
-    ]
-  },
-  {
-    "teal": 184,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      585,
-      586
-    ]
-  },
-  {
-    "teal": 185,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      587
-    ]
-  },
-  {
-    "teal": 186,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      588,
-      589
-    ]
-  },
-  {
-    "teal": 190,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      590,
-      591
-    ]
-  },
-  {
-    "teal": 191,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      592,
-      593
-    ]
-  },
-  {
-    "teal": 192,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      594
-    ]
-  },
-  {
-    "teal": 193,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      595,
-      596
-    ]
-  },
-  {
-    "teal": 196,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      597
-    ]
-  },
-  {
-    "teal": 197,
-    "source": "contracts/GameMaker.algo.ts:37",
-    "pc": [
-      598,
-      599
-    ]
-  },
-  {
-    "teal": 198,
-    "source": "contracts/GameMaker.algo.ts:35",
-    "pc": [
-      600
-    ]
-  },
-  {
-    "teal": 199,
-    "source": "contracts/GameMaker.algo.ts:35",
-    "pc": [
-      601
-    ]
-  },
-  {
-    "teal": 200,
-    "source": "contracts/GameMaker.algo.ts:35",
-    "pc": [
-      602,
-      603
-    ]
-  },
-  {
-    "teal": 201,
-    "source": "contracts/GameMaker.algo.ts:35",
-    "pc": [
-      604,
-      605,
-      606,
-      607,
-      608,
-      609
-    ]
-  },
-  {
-    "teal": 202,
-    "source": "contracts/GameMaker.algo.ts:35",
-    "pc": [
-      610,
-      611
-    ]
-  },
-  {
     "teal": 206,
     "source": "contracts/GameMaker.algo.ts:36",
     "pc": [
-      612,
-      613
+      547,
+      548
     ]
   },
   {
     "teal": 207,
     "source": "contracts/GameMaker.algo.ts:36",
     "pc": [
-      614,
-      615
+      549,
+      550
     ]
   },
   {
     "teal": 211,
     "source": "contracts/GameMaker.algo.ts:37",
     "pc": [
-      616,
-      617
+      551,
+      552
     ]
   },
   {
     "teal": 212,
     "source": "contracts/GameMaker.algo.ts:37",
     "pc": [
-      618,
-      619
+      553,
+      554
     ]
   },
   {
     "teal": 215,
     "source": "contracts/GameMaker.algo.ts:35",
     "pc": [
-      620
+      555
     ]
   },
   {
     "teal": 216,
     "source": "contracts/GameMaker.algo.ts:35",
     "pc": [
-      621,
-      622
+      556,
+      557
     ]
   },
   {
     "teal": 219,
     "source": "contracts/GameMaker.algo.ts:35",
     "pc": [
-      623
+      558
     ]
   },
   {
     "teal": 220,
     "source": "contracts/GameMaker.algo.ts:35",
     "pc": [
-      624,
-      625
+      559,
+      560
     ]
   },
   {
     "teal": 221,
     "source": "contracts/GameMaker.algo.ts:35",
     "pc": [
-      626
+      561
     ]
   },
   {
     "teal": 222,
     "source": "contracts/GameMaker.algo.ts:35",
     "pc": [
-      627
+      562
     ]
   },
   {
     "teal": 223,
     "source": "contracts/GameMaker.algo.ts:35",
     "pc": [
-      628,
-      629
+      563,
+      564
     ]
   },
   {
     "teal": 224,
     "source": "contracts/GameMaker.algo.ts:35",
     "pc": [
-      630,
-      631,
-      632
+      565,
+      566,
+      567
     ]
   },
   {
     "teal": 228,
     "source": "contracts/GameMaker.algo.ts:40",
     "pc": [
-      633,
-      634
+      568,
+      569
     ]
   },
   {
     "teal": 231,
     "source": "contracts/GameMaker.algo.ts:18",
     "pc": [
-      635,
-      636
+      570,
+      571
     ]
   },
   {
     "teal": 234,
     "source": "contracts/GameMaker.algo.ts:18",
     "pc": [
-      637,
-      638
+      572,
+      573
     ]
   },
   {
     "teal": 235,
     "source": "contracts/GameMaker.algo.ts:18",
     "pc": [
-      639
+      574
     ]
   },
   {
     "teal": 240,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      640,
-      641,
-      642
+      575,
+      576,
+      577
     ]
   },
   {
     "teal": 241,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      643
+      578
     ]
   },
   {
     "teal": 244,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      644,
-      645
+      579,
+      580
     ]
   },
   {
     "teal": 245,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      646
+      581
     ]
   },
   {
     "teal": 246,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      647
+      582
     ]
   },
   {
     "teal": 247,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      648
+      583
     ]
   },
   {
     "teal": 248,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      649,
-      650
+      584,
+      585
     ]
   },
   {
     "teal": 249,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      651
+      586
     ]
   },
   {
     "teal": 250,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      652
+      587
     ]
   },
   {
@@ -1386,81 +1321,81 @@
     "source": "contracts/GameMaker.algo.ts:43",
     "errorMessage": "argument 1 (payment) for play must be a pay transaction",
     "pc": [
-      653
+      588
     ]
   },
   {
     "teal": 256,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      654,
-      655,
-      656
+      589,
+      590,
+      591
     ]
   },
   {
     "teal": 257,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      657
+      592
     ]
   },
   {
     "teal": 258,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      658
+      593
     ]
   },
   {
     "teal": 262,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      659,
-      660,
-      661
+      594,
+      595,
+      596
     ]
   },
   {
     "teal": 265,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      662
+      597
     ]
   },
   {
     "teal": 266,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      663
+      598
     ]
   },
   {
     "teal": 270,
     "source": "contracts/GameMaker.algo.ts:44",
     "pc": [
-      664,
-      665
+      599,
+      600
     ]
   },
   {
     "teal": 271,
     "source": "contracts/GameMaker.algo.ts:44",
     "pc": [
-      666,
-      667,
-      668,
-      669,
-      670,
-      671,
-      672
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607
     ]
   },
   {
     "teal": 272,
     "source": "contracts/GameMaker.algo.ts:44",
     "pc": [
-      673
+      608
     ]
   },
   {
@@ -1468,544 +1403,544 @@
     "source": "contracts/GameMaker.algo.ts:44",
     "errorMessage": "global state value does not exist: appID.globalState('owner')",
     "pc": [
-      674
+      609
     ]
   },
   {
     "teal": 276,
     "source": "contracts/GameMaker.algo.ts:44",
     "pc": [
-      675,
-      676
+      610,
+      611
     ]
   },
   {
     "teal": 284,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      677
+      612
     ]
   },
   {
     "teal": 285,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      678
+      613
     ]
   },
   {
     "teal": 286,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      679,
-      680
+      614,
+      615
     ]
   },
   {
     "teal": 290,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      681,
-      682
+      616,
+      617
     ]
   },
   {
     "teal": 291,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      683,
-      684
+      618,
+      619
     ]
   },
   {
     "teal": 292,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      685,
-      686
+      620,
+      621
     ]
   },
   {
     "teal": 296,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      687,
-      688
+      622,
+      623
     ]
   },
   {
     "teal": 297,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      689,
-      690
+      624,
+      625
     ]
   },
   {
     "teal": 298,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      691
+      626
     ]
   },
   {
     "teal": 299,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      692,
-      693
+      627,
+      628
     ]
   },
   {
     "teal": 302,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      694
+      629
     ]
   },
   {
     "teal": 303,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      695,
-      696
+      630,
+      631
     ]
   },
   {
     "teal": 304,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      697
+      632
     ]
   },
   {
     "teal": 305,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      698
+      633
     ]
   },
   {
     "teal": 306,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      699,
-      700
+      634,
+      635
     ]
   },
   {
     "teal": 307,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      701,
-      702,
-      703,
-      704,
-      705,
-      706
+      636,
+      637,
+      638,
+      639,
+      640,
+      641
     ]
   },
   {
     "teal": 308,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      707,
-      708
+      642,
+      643
     ]
   },
   {
     "teal": 312,
     "source": "contracts/GameMaker.algo.ts:46",
     "pc": [
-      709,
-      710
+      644,
+      645
     ]
   },
   {
     "teal": 313,
     "source": "contracts/GameMaker.algo.ts:46",
     "pc": [
-      711,
-      712
+      646,
+      647
     ]
   },
   {
     "teal": 317,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      713,
-      714
+      648,
+      649
     ]
   },
   {
     "teal": 318,
     "source": "contracts/GameMaker.algo.ts:47",
     "pc": [
-      715,
-      716
+      650,
+      651
     ]
   },
   {
     "teal": 322,
     "source": "contracts/GameMaker.algo.ts:48",
     "pc": [
-      717,
-      718
+      652,
+      653
     ]
   },
   {
     "teal": 323,
     "source": "contracts/GameMaker.algo.ts:48",
     "pc": [
-      719,
-      720
+      654,
+      655
     ]
   },
   {
     "teal": 326,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      721
+      656
     ]
   },
   {
     "teal": 327,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      722,
-      723
+      657,
+      658
     ]
   },
   {
     "teal": 330,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      724
+      659
     ]
   },
   {
     "teal": 331,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      725,
-      726
+      660,
+      661
     ]
   },
   {
     "teal": 332,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      727
+      662
     ]
   },
   {
     "teal": 333,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      728
+      663
     ]
   },
   {
     "teal": 334,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      729,
-      730
+      664,
+      665
     ]
   },
   {
     "teal": 335,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      731,
-      732,
-      733
+      666,
+      667,
+      668
     ]
   },
   {
     "teal": 336,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      734
+      669
     ]
   },
   {
     "teal": 337,
     "source": "contracts/GameMaker.algo.ts:45",
     "pc": [
-      735,
-      736
+      670,
+      671
     ]
   },
   {
     "teal": 342,
     "source": "contracts/GameMaker.algo.ts:51",
     "pc": [
-      737,
-      738
+      672,
+      673
     ]
   },
   {
     "teal": 343,
     "source": "contracts/GameMaker.algo.ts:51",
     "pc": [
-      739
+      674
     ]
   },
   {
     "teal": 344,
     "source": "contracts/GameMaker.algo.ts:51",
     "pc": [
-      740
+      675
     ]
   },
   {
     "teal": 345,
     "source": "contracts/GameMaker.algo.ts:51",
     "pc": [
-      741,
-      742,
-      743
+      676,
+      677,
+      678
     ]
   },
   {
     "teal": 350,
     "source": "contracts/GameMaker.algo.ts:51",
     "pc": [
-      744
+      679
     ]
   },
   {
     "teal": 351,
     "source": "contracts/GameMaker.algo.ts:51",
     "pc": [
-      745
+      680
     ]
   },
   {
     "teal": 352,
     "source": "contracts/GameMaker.algo.ts:51",
     "pc": [
-      746
+      681
     ]
   },
   {
     "teal": 353,
     "source": "contracts/GameMaker.algo.ts:51",
     "pc": [
-      747
+      682
     ]
   },
   {
     "teal": 354,
     "source": "contracts/GameMaker.algo.ts:51",
     "pc": [
-      748
+      683
     ]
   },
   {
     "teal": 355,
     "source": "contracts/GameMaker.algo.ts:51",
     "pc": [
-      749
+      684
     ]
   },
   {
     "teal": 356,
     "source": "contracts/GameMaker.algo.ts:51",
     "pc": [
-      750
+      685
     ]
   },
   {
     "teal": 362,
     "source": "contracts/GameMaker.algo.ts:52",
     "pc": [
-      751,
-      752
+      686,
+      687
     ]
   },
   {
     "teal": 363,
     "source": "contracts/GameMaker.algo.ts:52",
     "pc": [
-      753
+      688
     ]
   },
   {
     "teal": 364,
     "source": "contracts/GameMaker.algo.ts:52",
     "pc": [
-      754
+      689
     ]
   },
   {
     "teal": 365,
     "source": "contracts/GameMaker.algo.ts:52",
     "pc": [
-      755,
-      756,
-      757
+      690,
+      691,
+      692
     ]
   },
   {
     "teal": 370,
     "source": "contracts/GameMaker.algo.ts:52",
     "pc": [
-      758
+      693
     ]
   },
   {
     "teal": 371,
     "source": "contracts/GameMaker.algo.ts:52",
     "pc": [
-      759
+      694
     ]
   },
   {
     "teal": 372,
     "source": "contracts/GameMaker.algo.ts:52",
     "pc": [
-      760
+      695
     ]
   },
   {
     "teal": 373,
     "source": "contracts/GameMaker.algo.ts:52",
     "pc": [
-      761
+      696
     ]
   },
   {
     "teal": 374,
     "source": "contracts/GameMaker.algo.ts:52",
     "pc": [
-      762
+      697
     ]
   },
   {
     "teal": 375,
     "source": "contracts/GameMaker.algo.ts:52",
     "pc": [
-      763
+      698
     ]
   },
   {
     "teal": 376,
     "source": "contracts/GameMaker.algo.ts:52",
     "pc": [
-      764
+      699
     ]
   },
   {
     "teal": 381,
     "source": "contracts/GameMaker.algo.ts:54",
     "pc": [
-      765
+      700
     ]
   },
   {
     "teal": 382,
     "source": "contracts/GameMaker.algo.ts:54",
     "pc": [
-      766
+      701
     ]
   },
   {
     "teal": 383,
     "source": "contracts/GameMaker.algo.ts:54",
     "pc": [
-      767,
-      768
+      702,
+      703
     ]
   },
   {
     "teal": 387,
     "source": "contracts/GameMaker.algo.ts:54",
     "pc": [
-      769,
-      770
+      704,
+      705
     ]
   },
   {
     "teal": 388,
     "source": "contracts/GameMaker.algo.ts:54",
     "pc": [
-      771,
-      772
+      706,
+      707
     ]
   },
   {
     "teal": 392,
     "source": "contracts/GameMaker.algo.ts:54",
     "pc": [
-      773,
-      774,
-      775,
-      776
+      708,
+      709,
+      710,
+      711
     ]
   },
   {
     "teal": 393,
     "source": "contracts/GameMaker.algo.ts:54",
     "pc": [
-      777,
-      778
+      712,
+      713
     ]
   },
   {
     "teal": 396,
     "source": "contracts/GameMaker.algo.ts:54",
     "pc": [
-      779
+      714
     ]
   },
   {
     "teal": 397,
     "source": "contracts/GameMaker.algo.ts:54",
     "pc": [
-      780,
-      781
+      715,
+      716
     ]
   },
   {
     "teal": 400,
     "source": "contracts/GameMaker.algo.ts:54",
     "pc": [
-      782
+      717
     ]
   },
   {
     "teal": 401,
     "source": "contracts/GameMaker.algo.ts:43",
     "pc": [
-      783
+      718
     ]
   },
   {
     "teal": 404,
     "source": "contracts/GameMaker.algo.ts:6",
     "pc": [
-      784
+      719
     ]
   },
   {
     "teal": 405,
     "source": "contracts/GameMaker.algo.ts:6",
     "pc": [
-      785,
-      786,
-      787
+      720,
+      721,
+      722
     ]
   },
   {
     "teal": 406,
     "source": "contracts/GameMaker.algo.ts:6",
     "pc": [
-      788,
-      789,
-      790,
-      791
+      723,
+      724,
+      725,
+      726
     ]
   },
   {
@@ -2013,52 +1948,52 @@
     "source": "contracts/GameMaker.algo.ts:6",
     "errorMessage": "this contract does not implement the given ABI method for create NoOp",
     "pc": [
-      792
+      727
     ]
   },
   {
     "teal": 412,
     "source": "contracts/GameMaker.algo.ts:6",
     "pc": [
-      793,
-      794,
-      795,
-      796,
-      797,
-      798
+      728,
+      729,
+      730,
+      731,
+      732,
+      733
     ]
   },
   {
     "teal": 413,
     "source": "contracts/GameMaker.algo.ts:6",
     "pc": [
-      799,
-      800,
-      801,
-      802,
-      803,
-      804
+      734,
+      735,
+      736,
+      737,
+      738,
+      739
     ]
   },
   {
     "teal": 414,
     "source": "contracts/GameMaker.algo.ts:6",
     "pc": [
-      805,
-      806,
-      807
+      740,
+      741,
+      742
     ]
   },
   {
     "teal": 415,
     "source": "contracts/GameMaker.algo.ts:6",
     "pc": [
-      808,
-      809,
-      810,
-      811,
-      812,
-      813
+      743,
+      744,
+      745,
+      746,
+      747,
+      748
     ]
   },
   {
@@ -2066,7 +2001,7 @@
     "source": "contracts/GameMaker.algo.ts:6",
     "errorMessage": "this contract does not implement the given ABI method for call NoOp",
     "pc": [
-      814
+      749
     ]
   }
 ]
