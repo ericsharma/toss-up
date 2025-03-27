@@ -11,7 +11,13 @@ The project consists of:
 - A "register and play" system where users can either create games or play existing games created by others
 
 ## Frontend Usage Guide
+
 [Frontend Here](https://frontend-biindjoe.vercel.app/)
+
+## Currently you can switch between two different game modes
+
+- Classic: Uses the randomness seen in the main branch of the repo
+- Funk: Uses randomness found in [this branch](https://github.com/ericsharma/toss-up/blob/Funk-Changes/projects/toss-up/contracts/TossUp.algo.ts#L19-L28) which was inspired by a convo on [algorand discord](https://discord.com/invite/algorand)
 
 ### Creating a Game (Register)
 
@@ -41,7 +47,8 @@ Click "Refresh Stats" to update the displayed information.
 
 ## Testnet AppID
 
-736389917
+Classic: 736389917
+Funk: 736470454
 
 ## Smart Contract Architecture
 
