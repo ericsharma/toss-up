@@ -11,6 +11,7 @@ The project consists of:
 - A "register and play" system where users can either create games or play existing games created by others
 
 ## Frontend Usage Guide
+[Frontend Here](https://frontend-biindjoe.vercel.app/)
 
 ### Creating a Game (Register)
 
